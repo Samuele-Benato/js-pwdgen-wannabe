@@ -14,7 +14,7 @@ const password = firstName + surname + favColor;
 
 // Password Message
 const passwordMessage = ` 
-<h1> Benvenuto ${firstName}</h1>
+<h1> Benvenuto/a ${firstName}</h1>
 <h3> Questa è la tua password :</h3>
 <p> ${password} </p>`;
 
